@@ -1,0 +1,64 @@
+.navegador{background-color: rgb(44, 41, 41);
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+header{
+    background-color: rgb(194, 190, 190);
+}
+
+.titulo{
+    text-align: center;
+    margin: 20px;
+    color: black;
+    height: 55px;
+}
+.subtitulo{
+    margin: 10px;
+}
+.texto{
+    margin: 20px;
+}
+.consubtitulo{
+    text-decoration: none;
+}
+img{
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    left: 41%;
+}
+
+.hyper{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    padding: 10px;
+    border: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(92, 91, 91);
+    border: solid 2px black;
+}
+.foto{
+    border-radius: 50%;
+    width: 13%;
+
+}
+main{
+    margin: 20px; 
+    border:solid 1px black;
+    border-radius: 25px;
+    background-color: whitesmoke;
+
+}
+footer{
+    background-color: black;
+    font-size: small;
+    color: white;
+    padding: 5px;
+}
